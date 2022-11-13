@@ -3,4 +3,4 @@ This is a sample for ecommerce site which contains description of clothes, add c
 
 
 Link to the site 
-(Link)[https://ranjeev20.github.io/Bohara_E-commerce_Site/]
+[Link](https://ranjeev20.github.io/Bohara_E-commerce_Site/)
